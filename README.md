@@ -1,12 +1,8 @@
-#### AI Agent Chat Workflow (n8n + LangChain + Gemini)
-
-
+AI Agent Chat Workflow (n8n + LangChain + Gemini)
 
 This project contains an \*\*n8n automation workflow\*\* integrating LangChain with Google Gemini, SerpAPI, and other AI tools.  
 
 It responds to chat inputs using an AI agent with memory, computation, and real-time web search capabilities.
-
-
 
 Components Used
 
@@ -23,7 +19,6 @@ Components Used
 \- Memory Buffer (for short-term context)
 
 
-
 How to Import
 
 1\. Open your n8n dashboard.
@@ -36,10 +31,7 @@ How to Import
 
 5\. Activate and test the workflow.
 
-
-
----
-
+![n8n Workflow Screenshot](workflow_screenshot.png)
 
 
 Author: Gaganashree H N
