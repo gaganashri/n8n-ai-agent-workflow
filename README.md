@@ -30,9 +30,17 @@ How to Import
 4\. Add your credentials for Google Gemini and SerpAPI.
 
 5\. Activate and test the workflow.
+Demo
 
-![n8n Workflow Screenshot](workflow_screenshot.png)
+You can see the n8n workflow layout below:
 
+![Workflow Demo](workflow_screenshot.png)
+
+---
+Future Enhancements
+- Integrate custom tools (like database lookup or Slack integration)
+- Add persistent memory using Redis or Postgres nodes
+- Deploy the workflow on an n8n server or Docker for continuous automation
 
 Author: Gaganashree H N
 
